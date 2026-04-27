@@ -7,3 +7,6 @@ https://yuanmx.blogspot.com/2026/04/sql1.html
 
 SQL查询测试2
 https://yuanmx.blogspot.com/2026/04/sql2.html
+
+SQL查询测试3
+https://yuanmx.blogspot.com/2026/04/sql3.html
