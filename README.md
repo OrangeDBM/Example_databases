@@ -22,3 +22,6 @@ https://yuanmx.blogspot.com/2026/04/sql6.html
 
 SQL查询测试7
 https://yuanmx.blogspot.com/2026/04/sql7.html
+
+SQL查询之窗口函数
+https://yuanmx.blogspot.com/2026/04/sql.html
