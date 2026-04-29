@@ -1,7 +1,7 @@
 # Example_databases
 
 ## 关注博客 https://cn.orangedbm.com/
-## 以下为部分链接，全部内容请进入博客网址观看
+## 以下为部分链接，全部内容请进入博客网址查看
 
 SQL查询测试1
 https://cn.orangedbm.com/2026/04/sql1.html
